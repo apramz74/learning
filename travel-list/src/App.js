@@ -20,6 +20,7 @@ export default function App() {
 }
 
 function Logo() {
+  console.log("hi");
   return <h1>🏝️ Far Away🧳</h1>;
 }
 
